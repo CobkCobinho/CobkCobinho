@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  The fog is thick. Static crackles from the radio.<br>
-  Somewhere between the noise and the fragments of code, a voice answers.
+  "The fog is thick. Static crackles from the radio.<br>
+  Somewhere between the noise and the fragments of code, a voice answers..."
 </p>
 
 <br>
