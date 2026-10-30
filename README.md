@@ -25,7 +25,7 @@
 
 <p align="center">
   <img width="48" height="48" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img width="48" height="48" alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
+  <img width="48" height="48" alt=".NET" title=".NET" src="assets/dotnet.svg">
   <img width="48" height="48" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img width="48" height="48" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img width="48" height="48" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -40,6 +40,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-cobk/">
-    <img alt="LinkedIn — Luiz" src="https://img.shields.io/badge/LinkedIn-Luiz-0A66C2?style=for-the-badge">
+    <img alt="LinkedIn — Luiz" src="assets/linkedin.svg">
   </a>
 </p>
