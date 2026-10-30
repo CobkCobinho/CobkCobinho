@@ -4,7 +4,9 @@
 </p>
 
 <p align="center">
-  <img width="1600" height="400" alt="Luiz — code, data, and technology" src="https://github.com/user-attachments/assets/df78011b-9e93-4681-8408-e6009dcc8436">
+  <a href="https://tenor.com/view/sh2-silent-hill-2-fog-gif-1321460155140227201">
+    <img width="498" height="374" alt="Silent Hill 2 — James running through a foggy forest" src="https://c.tenor.com/ElbFAnv3QIEAAAAd/tenor.gif">
+  </a>
 </p>
 
 ## About Me
