@@ -4,24 +4,28 @@
 </p>
 
 <p align="center">
-  <img width="1600" height="400" alt="Luiz — código, dados e tecnologia" src="https://github.com/user-attachments/assets/df78011b-9e93-4681-8408-e6009dcc8436">
+  <img width="1600" height="400" alt="Luiz — code, data, and technology" src="https://github.com/user-attachments/assets/df78011b-9e93-4681-8408-e6009dcc8436">
 </p>
 
-<h1 align="center">Olá, eu sou o Luiz 👋</h1>
+## About Me
+
+Computer Science undergraduate with a focus on back-end development and data engineering. I enjoy connecting application logic, databases, and web interfaces to build practical, well-structured solutions.
+
+- **Back-end:** C# / .NET, REST APIs, JWT authentication, Entity Framework Core, and LINQ.
+- **Front-end:** JavaScript, HTML, and CSS.
+- **Data & analytics:** SQL, Python, and Power BI.
+- **Currently:** Data Engineering Intern at **Stellantis**.
+- **Education:** Bachelor's degree in **Computer Science** in progress — **4th semester**.
+- **Languages:** Portuguese (native), English (advanced), and Spanish (intermediate).
+
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  Por aqui compartilho meus projetos com <strong>C# e .NET</strong>,<br>
-  desenvolvimento web e análise de dados.
+  <img height="170" alt="CobkCobinho's public GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CobkCobinho&amp;theme=github_dark&amp;title_color=5eead4&amp;icon_color=5eead4">
+  <img height="170" alt="Languages in CobkCobinho's public repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CobkCobinho&amp;theme=github_dark&amp;title_color=5eead4">
 </p>
 
-<h2 align="center">Atividade no GitHub</h2>
-
-<p align="center">
-  <img height="170" alt="Estatísticas públicas do GitHub de CobkCobinho" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CobkCobinho&amp;theme=github_dark&amp;title_color=5eead4&amp;icon_color=5eead4">
-  <img height="170" alt="Linguagens presentes nos repositórios públicos de CobkCobinho" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CobkCobinho&amp;theme=github_dark&amp;title_color=5eead4">
-</p>
-
-<h2 align="center">Tecnologias que uso</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img width="48" height="48" alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
